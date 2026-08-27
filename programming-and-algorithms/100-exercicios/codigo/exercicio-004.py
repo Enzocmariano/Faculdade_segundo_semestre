@@ -1,4 +1,4 @@
-programming-and-algorithms/100-exercicios/codigo/exercicio-004.pyvalor = float(input("Digite um valor: "))
+valor = float(input("Digite um valor: "))
 dobro = valor * 2
 triplo = valor * 3
 metade = valor / 2
