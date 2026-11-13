@@ -1,13 +1,15 @@
-# 100 Exercícios de Lógica de Programação
+# Exercícios de Lógica de Programação
 
-Esta pasta reúne os códigos e os fluxogramas dos exercícios de lógica.
+Coleção de exercícios de lógica de programação com soluções em Python e fluxogramas correspondentes.
+
+> **Status:** coleção em desenvolvimento. O índice abaixo apresenta os exercícios atualmente documentados; novos itens serão adicionados conforme forem concluídos.
 
 ## Organização
 
-- [Códigos](./codigo/)
+- [Códigos em Python](./codigo/)
 - [Fluxogramas](./fluxograma/)
 
-Cada código possui um fluxograma com a mesma numeração.
+Os arquivos de código e seus fluxogramas usam a mesma numeração.
 
 | Exercício | Tema | Código | Fluxograma |
 |---:|---|---|---|
@@ -23,3 +25,11 @@ Cada código possui um fluxograma com a mesma numeração.
 | 010 | Salário com comissão | [Python](./codigo/exercicio-010.py) | [Imagem](./fluxograma/exercicio-010.jpg) |
 | 011 | Troca de valores | [Python](./codigo/exercicio-011.py) | [Imagem](./fluxograma/exercicio-011.jpg) |
 | 012 | Compra com frete | [Python](./codigo/exercicio-012.py) | [Imagem](./fluxograma/exercicio-012.jpg) |
+
+---
+
+# English
+
+Programming logic exercises with Python solutions and matching flowcharts.
+
+**Status:** work in progress. The index lists the exercises currently documented in this repository. Code and flowchart files share the same exercise number.
