@@ -2,9 +2,24 @@
 
 Materiais, exercícios e atividades da disciplina de **Programming & Algorithms**.
 
-## Organização
+## Navegação
 
-- [100 exercícios](./100-exercicios/)
-- [Atividades](./atividades/)
+| Seção | Descrição |
+|---|---|
+| [Exercícios de lógica](./100-exercicios/) | Códigos em Python e fluxogramas |
+| [Atividades complementares](./atividades/) | Exercícios adicionais da disciplina |
 
-Os exercícios possuem códigos e fluxogramas identificados pelo mesmo número.
+## Padrão dos exercícios
+
+Quando houver código e fluxograma para um mesmo exercício, ambos utilizam a mesma numeração para facilitar a consulta.
+
+---
+
+# English
+
+Coursework, exercises, and assignments for **Programming & Algorithms**.
+
+- [Logic exercises](./100-exercicios/): Python solutions and corresponding flowcharts.
+- [Additional assignments](./atividades/): supplementary coursework.
+
+Matching code and flowchart files use the same exercise number.
